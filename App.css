@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: rgb(208, 246, 225);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  font-style: italic;
+  font-weight: bold;
+  width: 100%;
+}
+button:hover{
+  padding: 10px;
+  background-color: aqua;
+}
+
+
+

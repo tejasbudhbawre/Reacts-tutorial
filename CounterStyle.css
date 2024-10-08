@@ -1,0 +1,9 @@
+.counter{
+    padding: 5px;
+    background-color: rgb(255, 165, 48);
+}
+button:hover{
+    padding: auto;
+    background-color: rgb(195, 236, 169);
+    display:inline-block;
+}
